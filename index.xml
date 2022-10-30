@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hongpeng MA</title>
-    <link>http://example.org/</link>
+    <link>http://hongpengm.github.io/</link>
     <description>Recent content on Hongpeng MA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate><atom:link href="http://hongpengm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开始写博客了</title>
-      <link>http://example.org/posts/2022-10-30-why-i-start-write-blog/</link>
+      <link>http://hongpengm.github.io/posts/2022-10-30-why-i-start-write-blog/</link>
       <pubDate>Sun, 30 Oct 2022 20:19:22 +0800</pubDate>
       
-      <guid>http://example.org/posts/2022-10-30-why-i-start-write-blog/</guid>
+      <guid>http://hongpengm.github.io/posts/2022-10-30-why-i-start-write-blog/</guid>
       <description>First post！
 Done!</description>
     </item>
